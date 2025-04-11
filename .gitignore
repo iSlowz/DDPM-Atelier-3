@@ -1,0 +1,7 @@
+dataset/
+data/
+results_cerfs/
+results/
+results_chien/
+model_cerf_epoch_110.pt
+model_epoch_100.pt
